@@ -4,7 +4,6 @@
 using namespace std;
 
 void shakersort(int a[]);
-
 int main()
 {
 
