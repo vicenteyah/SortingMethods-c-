@@ -1,7 +1,6 @@
 #include <iostream>
 #include <cstdlib>
 using namespace std;
-
 void intercambio(int *x, int *y);
 int particion(int[], int, int);
 void quickSort(int[], int, int);
