@@ -1,5 +1,15 @@
 ## Notas:
-Como usar estos programas 
-para compilacion desde la linea de comandos linux o mac
-$ g++ NombreArchivo.cpp  se genera un archivo ejecutable a.out
-para ejecutarlo : $./a.out
+
+## How it works?
+1. to execute these algorithms just need type following commands in ubuntu linux or mac os terminal
+##Compile file usign the terminal
+```bash
+$ g++ Nameoffile.cpp
+```
+
+##Run the algorithm
+2. the previous command going to generate an unix executable file a.out
+3.to execute the previous file generated you must type the following command
+```bash
+$ ./a.out
+```
